@@ -1,0 +1,211 @@
+ID_Venta,Fecha,ID_Cliente,Nombre_Cliente,Ciudad,ID_Producto,Producto,ID_Categoria,Categoria,Cantidad,Precio_Unitario,Monto_Total,ID_Metodo_Pago,Metodo_Pago
+VENTA_001,13/04/2026,  CUST-0105  ,Pedro Lopez,,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  ELECTRÓNICA  ,-2.0,0.0,10.0,PAG_001,Nequi
+VENTA_002,01/01/1900,  cust_0148  ,Gabriel Vargas,Bogotá,PROD_004,  ORGANIZADOR DE CABLES  ,CAT_002,  ACCESORIOS  ,-3.0,12.0,136.0,PAG_001,Nequi
+VENTA_003,03/04/2026,  CUST-0115  ,Sofia Morales,Cali,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  electrónica  ,3.0,75.0,220.0,PAG_002,PayPal
+VENTA_004,15/01/2026,  CUST-0110  ,Pedro Diaz,,PROD_008,  lámpara led  ,CAT_003,  CATEGORIA DESCONOCIDO  ,3.0,35.0,100.0,PAG_002,PayPal
+VENTA_005,17/04/2026,  CUST-0126  ,Daniel Fernandez,Ciudad desconocido,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  electrónica  ,4.0,75.0,310.0,PAG_001,Nequi
+VENTA_006,13/03/2026,  cust-0131  ,Jorge Vargas,Cartagena,PROD_003,  laptop pro 15  ,CAT_001,  electrónica  ,3.0,,3610.0,PAG_002,
+VENTA_007,08/07/2026,  CUST-0130  ,Maria Sanchez,Cartagena,PROD_003,  LAPTOP PRO 15  ,CAT_001,,3.0,1200.0,3610.0,PAG_002,
+VENTA_008,01/01/1900,  CUST-0113  ,Carlos Garcia,,PROD_013,  LÁMPARA LED  ,CAT_004,,4.0,35.0,150.0,PAG_003,Tarjeta de Crédito
+VENTA_009,13/04/2026,  cust-0125  ,Juan Sanchez,Medellín,PROD_013,  lámpara led  ,CAT_004,  HOGAR  ,-2.0,0.0,10.0,PAG_003,Tarjeta de Crédito
+VENTA_010,01/01/1900,  cust-0103  ,Lucia Ramirez,Barranquilla,PROD_001,  monitor 27 pulgadas  ,CAT_001,  electrónica  ,2.0,0.0,-5.0,PAG_004,Efectivo
+VENTA_011,30/07/2026,  cust-0110  ,Pedro Diaz,Bogotá,PROD_013,  LÁMPARA LED  ,CAT_004,  HOGAR  ,-4.0,35.0,135.0,PAG_004,Efectivo
+VENTA_012,03/08/2026,  cust-0124  ,Laura Perez,Barranquilla,PROD_005,  teclado mecánico  ,CAT_002,,5.0,-85.0,435.0,PAG_005,
+VENTA_013,01/01/1900,  cust-0100  ,Ana Castro,Cali,PROD_002,  audífonos bluetooth  ,CAT_001,  electrónica  ,4.0,75.0,400.0,PAG_001,Nequi
+VENTA_014,22/07/2026,  CUST-0124  ,Laura Perez,Cartagena,PROD_014,  escritorio regulable  ,CAT_005,  muebles  ,0.0,,10.0,PAG_003,Tarjeta de Crédito
+VENTA_015,29/03/2026,  CUST-0116  ,Lucia Torres,Cali,PROD_006,  CABLE HDMI 4K  ,CAT_002,  accesorios  ,,15.0,55.0,PAG_006,Metodo de pago desconocido
+VENTA_016,27/04/2026,Cust-0150,Mateo Vargas,Cartagena,PROD_013,Lámpara led,CAT_004,Hogar,3.0,35.0,105.0,PAG_001,Nequi
+VENTA_017,10/04/2026,  CUST-0150  ,Mateo Vargas,Medellín,PROD_015,  silla ergonómica  ,CAT_005,  muebles  ,-3.0,210.0,640.0,PAG_005,Transferencia
+VENTA_018,14/04/2026,  cust-0129  ,Marta Castro,Cartagena,PROD_003,  laptop pro 15  ,CAT_001,  ELECTRÓNICA  ,1000.0,1200.0,1200100.0,PAG_002,PayPal
+VENTA_019,01/06/2026,  CUST-0118  ,Valeria Ramirez,Medellín,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,1.0,0.0,100.0,PAG_002,PayPal
+VENTA_020,01/01/1900,  cust-0127  ,Gabriel Ramirez,Cartagena,PROD_004,  ORGANIZADOR DE CABLES  ,CAT_002,  accesorios  ,5.0,12.0,160.0,PAG_001,Nequi
+VENTA_021,30/05/2026,  CUST-0144  ,Daniel Castro,Cali,PROD_006,  CABLE HDMI 4K  ,CAT_002,  accesorios  ,5.0,,,PAG_004,Efectivo
+VENTA_022,22/02/2026,  CUST_0146  ,Mariana Torres,Cali,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,,1.0,450.0,445.0,PAG_002,PayPal
+VENTA_023,02/01/2026,  cust-0150  ,Mateo Vargas,Medellín,PROD_006,  cable hdmi 4k  ,CAT_002,  accesorios  ,-4.0,15.0,160.0,PAG_002,PayPal
+VENTA_024,29/03/2026,  CUST-0135  ,Carlos Martinez,Medellín,PROD_013,  lámpara led  ,CAT_004,  HOGAR  ,3.0,35.0,100.0,PAG_002,PayPal
+VENTA_025,,  CUST-0142  ,Daniel Fernandez,Barranquilla,PROD_001,  monitor 27 pulgadas  ,CAT_001,  ELECTRÓNICA  ,1.0,320.0,420.0,PAG_003,
+VENTA_026,07/02/2026,  cust-0145  ,Diego Fernandez,Bogotá,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,1.0,1200.0,1195.0,PAG_003,Tarjeta de Crédito
+VENTA_027,01/01/1900,  cust_0131  ,Isabella Lopez,Barranquilla,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,,1200.0,4810.0,PAG_002,PayPal
+VENTA_028,01/01/1900,  CUST-0109  ,Camila Perez,Cartagena,PROD_004,  organizador de cables  ,CAT_002,  ACCESORIOS  ,1000.0,12.0,11995.0,PAG_003,Tarjeta de Crédito
+VENTA_029,07/07/2026,  cust-0112  ,Diego Diaz,Cali,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  ELECTRÓNICA  ,5.0,320.0,1610.0,PAG_004,Efectivo
+VENTA_030,21/01/2026,  CUST-0118  ,Valeria Ramirez,,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  electrónica  ,4.0,75.0,295.0,PAG_002,PayPal
+VENTA_031,10/06/2026,Cust-0113,Carlos Garcia,Cali,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,5.0,25.5,127.5,PAG_003,Tarjeta de Crédito
+VENTA_032,23/07/2026,  CUST-0103  ,Lucia Ramirez,Bogotá,PROD_005,  teclado mecánico  ,CAT_002,,2.0,85.0,180.0,PAG_005,Transferencia
+VENTA_033,27/02/2026,  CUST-0137  ,Juan Lopez,,PROD_003,  LAPTOP PRO 15  ,CAT_001,,-1.0,1200.0,,PAG_002,PayPal
+VENTA_034,22/01/2026,  cust-0147  ,Gabriel Castro,Cali,PROD_015,  SILLA ERGONÓMICA  ,CAT_005,  MUEBLES  ,-5.0,210.0,1150.0,PAG_001,Nequi
+VENTA_035,30/03/2026,  CUST-0134  ,Pedro Castro,Cali,PROD_003,  laptop pro 15  ,CAT_001,  ELECTRÓNICA  ,3.0,1200.0,3610.0,PAG_005,Transferencia
+VENTA_036,18/02/2026,  cust-0103  ,Lucia Ramirez,Medellín,PROD_006,  cable hdmi 4k  ,CAT_002,  ACCESORIOS  ,0.0,15.0,10.0,PAG_006,Metodo de pago desconocido
+VENTA_037,07/08/2026,  cust-0147  ,Gabriel Castro,Cartagena,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,4.0,1200.0,4810.0,PAG_003,Tarjeta de Crédito
+VENTA_038,28/02/2026,  cust-0120  ,Sofia Rodriguez,Cartagena,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,2.0,1200.0,2395.0,PAG_001,Nequi
+VENTA_039,19/06/2026,  CUST-0103  ,Lucia Ramirez,Barranquilla,PROD_007,  mouse inalámbrico  ,CAT_002,  accesorios  ,-1.0,0.0,100.0,PAG_005,Transferencia
+VENTA_040,08/08/2026,  cust-0103  ,Lucia Ramirez,Barranquilla,PROD_007,  mouse inalámbrico  ,CAT_002,  accesorios  ,3.0,-25.5,86.5,PAG_005,Transferencia
+VENTA_041,07/07/2026,  CUST-0137  ,Juan Lopez,Barranquilla,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,  muebles  ,3.0,450.0,1450.0,PAG_002,PayPal
+VENTA_042,01/01/1900,  CUST-0130  ,Maria Sanchez,Cali,PROD_002,  audífonos bluetooth  ,CAT_001,  electrónica  ,2.0,-75.0,145.0,PAG_003,Tarjeta de Crédito
+VENTA_043,15/01/2026,  CUST-0132  ,Camila Gomez,Bogotá,PROD_015,  silla ergonómica  ,CAT_005,  muebles  ,1.0,-210.0,310.0,PAG_002,PayPal
+VENTA_044,09/07/2026,  cust-0133  ,Maria Perez,Bogotá,PROD_003,  LAPTOP PRO 15  ,CAT_001,  electrónica  ,4.0,0.0,-5.0,PAG_004,Efectivo
+VENTA_045,01/01/1900,  CUST-0110  ,Pedro Diaz,Ciudad desconocido,PROD_009,  LAPTOP PRO 15  ,CAT_003,  CATEGORIA DESCONOCIDO  ,1000.0,0.0,-5.0,PAG_001,Nequi
+VENTA_046,24/06/2026,Cust-0103,Lucia Ramirez,Medellín,PROD_010,Teclado mecánico,CAT_003,Categoria desconocido,5.0,85.0,425.0,PAG_004,Efectivo
+VENTA_047,,  CUST-0132  ,Camila Gomez,Cartagena,PROD_007,  mouse inalámbrico  ,CAT_002,  accesorios  ,1.0,,10.0,PAG_001,Nequi
+VENTA_048,20/02/2026,  cust-0105  ,Pedro Lopez,Cali,PROD_015,  SILLA ERGONÓMICA  ,CAT_005,  muebles  ,2.0,-210.0,415.0,PAG_004,Efectivo
+VENTA_049,18/04/2026,  CUST-0111  ,Sofia Lopez,Ciudad desconocido,PROD_004,  ORGANIZADOR DE CABLES  ,CAT_002,  accesorios  ,5.0,12.0,160.0,PAG_004,Efectivo
+VENTA_050,24/02/2026,  CUST-0104  ,Juan Ramirez,Cali,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,  MUEBLES  ,5.0,-450.0,,PAG_005,Transferencia
+VENTA_051,05/03/2026,  cust-0138  ,Laura Garcia,Ciudad desconocido,PROD_011,  audífonos bluetooth  ,CAT_003,  CATEGORIA DESCONOCIDO  ,2.0,0.0,-5.0,PAG_004,Efectivo
+VENTA_052,11/05/2026,  cust-0104  ,Juan Ramirez,Medellín,PROD_001,  monitor 27 pulgadas  ,CAT_001,  ELECTRÓNICA  ,-2.0,320.0,650.0,PAG_005,Transferencia
+VENTA_053,,  cust-0143  ,Marta Lopez,Medellín,PROD_002,  audífonos bluetooth  ,CAT_001,  ELECTRÓNICA  ,2.0,75.0,145.0,PAG_004,Efectivo
+VENTA_054,20/02/2026,  cust-0115  ,Sofia Morales,Ciudad desconocido,PROD_006,  cable hdmi 4k  ,CAT_002,  accesorios  ,-5.0,0.0,10.0,PAG_005,Transferencia
+VENTA_055,15/05/2026,  cust-0125  ,Juan Sanchez,Cali,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,,1200.0,10.0,PAG_001,Nequi
+VENTA_056,,  cust-0107  ,Isabella Diaz,Bogotá,PROD_012,  ESCRITORIO REGULABLE  ,CAT_003,,-2.0,0.0,100.0,PAG_004,Efectivo
+VENTA_057,14/03/2026,  cust-0136  ,Lucia Perez,Barranquilla,PROD_006,  CABLE HDMI 4K  ,CAT_002,  ACCESORIOS  ,5.0,15.0,175.0,PAG_004,Efectivo
+VENTA_058,16/06/2026,  cust-0115  ,Sofia Morales,Bogotá,PROD_015,  silla ergonómica  ,CAT_005,  MUEBLES  ,2.0,210.0,430.0,PAG_002,PayPal
+VENTA_059,18/01/2026,  CUST-0137  ,Juan Lopez,Cartagena,PROD_001,  monitor 27 pulgadas  ,CAT_001,  electrónica  ,1000.0,320.0,320010.0,PAG_001,Nequi
+VENTA_060,12/05/2026,  cust-0138  ,Laura Garcia,,PROD_007,  mouse inalámbrico  ,CAT_002,  ACCESORIOS  ,2.0,0.0,-5.0,PAG_001,Nequi
+VENTA_061,30/03/2026,  cust-0102  ,Marta Ramirez,Cali,PROD_014,  escritorio regulable  ,CAT_005,  MUEBLES  ,0.0,450.0,10.0,PAG_005,Transferencia
+VENTA_062,01/03/2026,  CUST-0139  ,Maria Ramirez,,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,,2.0,450.0,1000.0,PAG_004,Efectivo
+VENTA_063,14/01/2026,  cust-0105  ,Pedro Lopez,Bogotá,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,1.0,,1195.0,PAG_003,Tarjeta de Crédito
+VENTA_064,09/01/2026,  cust-0126  ,Daniel Fernandez,Bogotá,PROD_013,  LÁMPARA LED  ,CAT_004,  hogar  ,1.0,35.0,45.0,PAG_001,Nequi
+VENTA_065,31/03/2026,  cust-0142  ,Daniel Fernandez,Barranquilla,PROD_014,  escritorio regulable  ,CAT_005,  muebles  ,-4.0,450.0,1795.0,PAG_001,Nequi
+VENTA_066,22/02/2026,  cust-0137  ,Juan Lopez,Barranquilla,PROD_010,  TECLADO MECÁNICO  ,CAT_003,  CATEGORIA DESCONOCIDO  ,-1.0,85.0,80.0,PAG_002,PayPal
+VENTA_067,10/05/2026,  cust-0136  ,Lucia Perez,Cali,PROD_001,  monitor 27 pulgadas  ,CAT_001,  electrónica  ,-3.0,320.0,970.0,PAG_002,PayPal
+VENTA_068,01/01/1900,  cust-0133  ,Maria Perez,Cali,PROD_001,  monitor 27 pulgadas  ,CAT_001,  electrónica  ,1.0,320.0,330.0,PAG_005,Transferencia
+VENTA_069,02/04/2026,  cust-0120  ,Sofia Rodriguez,Barranquilla,PROD_005,  TECLADO MECÁNICO  ,CAT_002,  accesorios  ,-2.0,85.0,270.0,PAG_002,PayPal
+VENTA_070,21/04/2026,Cust-0116,Lucia Torres,Barranquilla,PROD_004,Organizador de cables,CAT_002,Accesorios,1.0,12.0,12.0,PAG_003,Tarjeta de Crédito
+VENTA_071,07/07/2026,  cust-0113  ,Carlos Garcia,Cali,PROD_005,  TECLADO MECÁNICO  ,CAT_002,  accesorios  ,-5.0,85.0,420.0,PAG_002,
+VENTA_072,18/07/2026,  cust-0142  ,Daniel Fernandez,,PROD_005,  teclado mecánico  ,CAT_002,  accesorios  ,1.0,85.0,185.0,PAG_005,Transferencia
+VENTA_073,,  cust-0145  ,Diego Fernandez,Barranquilla,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  electrónica  ,2.0,320.0,740.0,PAG_001,Nequi
+VENTA_074,08/01/2026,  cust-0120  ,Sofia Rodriguez,Barranquilla,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  electrónica  ,4.0,-75.0,310.0,PAG_001,Nequi
+VENTA_075,24/06/2026,  cust_0115  ,Valeria Sanchez,Cartagena,PROD_001,  monitor 27 pulgadas  ,CAT_001,  electrónica  ,-1.0,320.0,420.0,PAG_005,Transferencia
+VENTA_076,04/02/2026,  cust-0116  ,Lucia Torres,Barranquilla,PROD_013,  LÁMPARA LED  ,CAT_004,  hogar  ,4.0,35.0,,PAG_006,Metodo de pago desconocido
+VENTA_077,25/07/2026,  cust-0125  ,Juan Sanchez,Medellín,PROD_003,  LAPTOP PRO 15  ,CAT_001,  electrónica  ,2.0,1200.0,2500.0,PAG_005,Transferencia
+VENTA_078,22/03/2026,  cust-0108  ,Camila Fernandez,Cartagena,PROD_006,  cable hdmi 4k  ,CAT_002,  ACCESORIOS  ,-1000.0,15.0,15010.0,PAG_001,Nequi
+VENTA_079,,  cust-0142  ,Daniel Fernandez,Bogotá,PROD_002,  audífonos bluetooth  ,CAT_001,  electrónica  ,1.0,75.0,85.0,PAG_005,Transferencia
+VENTA_080,19/02/2026,  cust-0141  ,Sofia Martinez,Medellín,PROD_007,  mouse inalámbrico  ,CAT_002,  accesorios  ,5.0,25.5,122.5,PAG_004,Efectivo
+VENTA_081,14/04/2026,  CUST-0119  ,Valeria Morales,Ciudad desconocido,PROD_006,  CABLE HDMI 4K  ,CAT_002,  accesorios  ,5.0,15.0,85.0,PAG_003,Tarjeta de Crédito
+VENTA_082,12/05/2026,  cust-0129  ,Marta Castro,Bogotá,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,4.0,1200.0,4795.0,PAG_003,Tarjeta de Crédito
+VENTA_083,02/01/2026,  CUST-0120  ,Sofia Rodriguez,,PROD_013,  lámpara led  ,CAT_004,  HOGAR  ,5.0,35.0,170.0,PAG_005,
+VENTA_084,14/05/2026,  cust-0148  ,Isabella Martinez,Medellín,PROD_013,  LÁMPARA LED  ,CAT_004,  HOGAR  ,5.0,0.0,10.0,PAG_003,Tarjeta de Crédito
+VENTA_085,23/02/2026,  cust-0104  ,Juan Ramirez,Bogotá,PROD_007,  MOUSE INALÁMBRICO  ,CAT_002,  accesorios  ,-1.0,25.5,20.5,PAG_005,Transferencia
+VENTA_086,16/04/2026,  CUST-0100  ,Ana Castro,Cali,PROD_002,  audífonos bluetooth  ,CAT_001,  electrónica  ,1.0,-75.0,70.0,PAG_005,Transferencia
+VENTA_087,04/01/2026,  cust-0129  ,Marta Castro,Cartagena,PROD_004,  organizador de cables  ,CAT_002,  ACCESORIOS  ,5.0,-12.0,70.0,PAG_003,Tarjeta de Crédito
+VENTA_088,23/02/2026,  CUST-0139  ,Maria Ramirez,Bogotá,PROD_005,  TECLADO MECÁNICO  ,CAT_002,,2.0,85.0,270.0,PAG_001,Nequi
+VENTA_089,01/01/1900,  cust-0136  ,Lucia Perez,Barranquilla,PROD_011,  audífonos bluetooth  ,CAT_003,  categoria desconocido  ,2.0,0.0,100.0,PAG_005,Transferencia
+VENTA_090,01/01/1900,  cust-0106  ,Andres Torres,Medellín,PROD_004,  organizador de cables  ,CAT_002,  ACCESORIOS  ,-4.0,,43.0,PAG_004,Efectivo
+VENTA_091,26/05/2026,  CUST-0104  ,Juan Ramirez,Cali,PROD_013,  lámpara led  ,CAT_004,,-1.0,35.0,30.0,PAG_003,Tarjeta de Crédito
+VENTA_092,,  CUST-0134  ,Pedro Castro,Barranquilla,PROD_001,  monitor 27 pulgadas  ,CAT_001,  electrónica  ,3.0,320.0,,PAG_002,PayPal
+VENTA_093,13/02/2026,  CUST-0113  ,Carlos Garcia,Cartagena,PROD_003,  laptop pro 15  ,CAT_001,  ELECTRÓNICA  ,3.0,1200.0,3595.0,PAG_004,Efectivo
+VENTA_094,11/06/2026,  cust-0132  ,Camila Gomez,Cali,PROD_007,  mouse inalámbrico  ,CAT_002,  ACCESORIOS  ,4.0,25.5,112.0,PAG_002,
+VENTA_095,01/01/1900,  CUST-0116  ,Lucia Torres,Medellín,PROD_003,  LAPTOP PRO 15  ,CAT_001,  electrónica  ,-2.0,1200.0,2410.0,PAG_005,Transferencia
+VENTA_096,09/07/2026,Cust-0108,Camila Fernandez,Ciudad desconocido,PROD_015,Silla ergonómica,CAT_005,Muebles,1.0,0.0,0.0,PAG_001,Nequi
+VENTA_097,16/08/2026,  cust-0122  ,Gabriel Morales,,PROD_015,  silla ergonómica  ,CAT_005,  muebles  ,-3.0,-210.0,730.0,PAG_003,Tarjeta de Crédito
+VENTA_098,14/01/2026,  CUST-0104  ,Juan Ramirez,Medellín,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  ELECTRÓNICA  ,-5.0,,370.0,PAG_001,Nequi
+VENTA_099,,  CUST_0115  ,Valeria Sanchez,Cali,PROD_013,  lámpara led  ,CAT_004,  hogar  ,-2.0,35.0,80.0,PAG_005,Transferencia
+VENTA_100,17/02/2026,  CUST-0123  ,Ana Torres,Cartagena,PROD_013,  lámpara led  ,CAT_004,  HOGAR  ,5.0,35.0,170.0,PAG_006,Metodo de pago desconocido
+VENTA_101,01/01/1900,  CUST-0118  ,Valeria Ramirez,Barranquilla,PROD_005,  TECLADO MECÁNICO  ,CAT_002,  ACCESORIOS  ,1.0,85.0,185.0,PAG_004,Efectivo
+VENTA_102,19/07/2026,  CUST-0110  ,Pedro Diaz,Medellín,PROD_005,  teclado mecánico  ,CAT_002,  accesorios  ,,0.0,10.0,PAG_005,Transferencia
+VENTA_103,25/07/2026,  CUST-0128  ,Pedro Torres,Barranquilla,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,1.0,0.0,-5.0,PAG_001,Nequi
+VENTA_104,,  CUST-0134  ,Pedro Castro,Bogotá,PROD_001,  monitor 27 pulgadas  ,CAT_001,  electrónica  ,-5.0,320.0,1700.0,PAG_002,PayPal
+VENTA_105,09/07/2026,  CUST-0145  ,Diego Fernandez,Bogotá,PROD_006,  cable hdmi 4k  ,CAT_002,  accesorios  ,1.0,15.0,10.0,PAG_001,Nequi
+VENTA_106,09/02/2026,  CUST-0119  ,Valeria Morales,Medellín,PROD_014,  escritorio regulable  ,CAT_005,  MUEBLES  ,-2.0,450.0,910.0,PAG_005,Transferencia
+VENTA_107,,  CUST-0139  ,Maria Ramirez,Barranquilla,PROD_006,  CABLE HDMI 4K  ,CAT_002,  ACCESORIOS  ,-4.0,-15.0,160.0,PAG_001,Nequi
+VENTA_108,27/07/2026,  cust-0141  ,Sofia Martinez,Ciudad desconocido,PROD_003,  LAPTOP PRO 15  ,CAT_001,  electrónica  ,1.0,0.0,,PAG_005,Transferencia
+VENTA_109,23/03/2026,  cust-0133  ,Maria Perez,Medellín,PROD_006,  cable hdmi 4k  ,CAT_002,  ACCESORIOS  ,5.0,15.0,175.0,PAG_006,Metodo de pago desconocido
+VENTA_110,21/04/2026,  CUST-0100  ,Ana Castro,Barranquilla,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  electrónica  ,-3.0,320.0,970.0,PAG_001,Nequi
+VENTA_111,22/02/2026,  CUST-0142  ,Daniel Fernandez,Bogotá,PROD_003,  laptop pro 15  ,CAT_001,  ELECTRÓNICA  ,4.0,-1200.0,4795.0,PAG_004,Efectivo
+VENTA_112,24/01/2026,  cust-0135  ,Carlos Martinez,,PROD_006,  cable hdmi 4k  ,CAT_002,  ACCESORIOS  ,5.0,15.0,85.0,PAG_002,PayPal
+VENTA_113,03/06/2026,  CUST-0119  ,Valeria Morales,Cali,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  electrónica  ,5.0,-0.0,-5.0,PAG_006,
+VENTA_114,05/08/2026,  CUST-0142  ,Daniel Fernandez,Barranquilla,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,,,-450.0,100.0,PAG_005,Transferencia
+VENTA_115,07/07/2026,  CUST-0106  ,Andres Torres,Barranquilla,PROD_006,  CABLE HDMI 4K  ,CAT_002,  accesorios  ,3.0,-15.0,,PAG_003,
+VENTA_116,04/05/2026,Cust-0108,Camila Fernandez,Medellín,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,0.0,320.0,0.0,PAG_005,Transferencia
+VENTA_117,10/02/2026,  cust-0116  ,Lucia Torres,Barranquilla,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,3.0,0.0,100.0,PAG_002,
+VENTA_118,,  CUST-0107  ,Isabella Diaz,Cali,PROD_013,  lámpara led  ,CAT_004,  hogar  ,3.0,35.0,115.0,PAG_004,Efectivo
+VENTA_119,15/01/2026,  CUST-0106  ,Andres Torres,Cartagena,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,0.0,85.0,-5.0,PAG_004,Efectivo
+VENTA_120,,  CUST-0147  ,Gabriel Castro,Bogotá,PROD_013,  LÁMPARA LED  ,CAT_004,  HOGAR  ,5.0,0.0,10.0,PAG_005,Transferencia
+VENTA_121,,  CUST-0135  ,Carlos Martinez,Bogotá,PROD_007,  mouse inalámbrico  ,CAT_002,  ACCESORIOS  ,1.0,0.0,100.0,PAG_005,Transferencia
+VENTA_122,,  cust-0109  ,Camila Perez,Bogotá,PROD_007,  MOUSE INALÁMBRICO  ,CAT_002,  accesorios  ,1.0,25.5,35.5,PAG_001,Nequi
+VENTA_123,12/03/2026,  CUST-0117  ,Ana Castro,Medellín,PROD_007,  mouse inalámbrico  ,CAT_002,,1000.0,25.5,25510.0,PAG_002,PayPal
+VENTA_124,09/01/2026,  CUST-0118  ,Valeria Ramirez,Bogotá,PROD_012,  ESCRITORIO REGULABLE  ,CAT_003,  categoria desconocido  ,4.0,450.0,1900.0,PAG_002,PayPal
+VENTA_125,01/01/1900,  cust-0138  ,Laura Garcia,Cali,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,-3.0,85.0,250.0,PAG_002,PayPal
+VENTA_126,09/05/2026,  CUST-0113  ,Carlos Garcia,Medellín,PROD_013,  LÁMPARA LED  ,CAT_004,  HOGAR  ,-3.0,35.0,205.0,PAG_005,
+VENTA_127,01/01/1900,  cust-0145  ,Diego Fernandez,,PROD_001,  monitor 27 pulgadas  ,CAT_001,  ELECTRÓNICA  ,5.0,-0.0,10.0,PAG_002,
+VENTA_128,04/08/2026,  cust-0121  ,Sofia Sanchez,Bogotá,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,-1.0,1200.0,1210.0,PAG_003,Tarjeta de Crédito
+VENTA_129,04/03/2026,Cust-0113,Carlos Garcia,Cali,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,5.0,320.0,1600.0,PAG_002,PayPal
+VENTA_130,19/05/2026,  CUST-0143  ,Marta Lopez,Bogotá,PROD_003,  laptop pro 15  ,CAT_001,,0.0,0.0,10.0,PAG_003,Tarjeta de Crédito
+VENTA_131,22/03/2026,  CUST-0140  ,Jorge Rodriguez,Bogotá,PROD_015,  SILLA ERGONÓMICA  ,CAT_005,  muebles  ,1000.0,210.0,210100.0,PAG_003,Tarjeta de Crédito
+VENTA_132,01/01/1900,  cust-0116  ,Lucia Torres,Cali,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  electrónica  ,-4.0,320.0,1380.0,PAG_002,PayPal
+VENTA_133,12/06/2026,  CUST-0132  ,Camila Gomez,Cartagena,PROD_006,  cable hdmi 4k  ,CAT_002,  ACCESORIOS  ,4.0,15.0,160.0,PAG_005,Transferencia
+VENTA_134,12/06/2026,  cust-0131  ,Jorge Vargas,Medellín,PROD_006,  cable hdmi 4k  ,CAT_002,  ACCESORIOS  ,-2.0,0.0,100.0,PAG_005,Transferencia
+VENTA_135,01/01/1900,  CUST-0116  ,Lucia Torres,Cali,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  ELECTRÓNICA  ,1.0,,85.0,PAG_002,PayPal
+VENTA_136,03/05/2026,  cust-0103  ,Lucia Ramirez,Cartagena,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,1.0,-85.0,95.0,PAG_005,Transferencia
+VENTA_137,01/01/1900,  CUST-0105  ,Pedro Lopez,Medellín,PROD_003,  laptop pro 15  ,CAT_001,  ELECTRÓNICA  ,-5.0,0.0,10.0,PAG_001,Nequi
+VENTA_138,10/02/2026,  cust-0140  ,Jorge Rodriguez,Bogotá,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,,1200.0,3700.0,PAG_002,PayPal
+VENTA_139,28/01/2026,  cust-0127  ,Gabriel Ramirez,Bogotá,PROD_005,  teclado mecánico  ,CAT_002,,0.0,85.0,-5.0,PAG_003,Tarjeta de Crédito
+VENTA_140,15/05/2026,  cust-0117  ,Ana Castro,Medellín,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,  MUEBLES  ,-5.0,0.0,-5.0,PAG_002,PayPal
+VENTA_141,20/07/2026,  cust-0102  ,Marta Ramirez,Cali,PROD_002,  audífonos bluetooth  ,CAT_001,  electrónica  ,2.0,75.0,250.0,PAG_002,PayPal
+VENTA_142,13/03/2026,  cust-0100  ,Ana Castro,,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,  muebles  ,-2.0,450.0,1000.0,PAG_001,Nequi
+VENTA_143,12/01/2026,  CUST-0121  ,Sofia Sanchez,Medellín,PROD_014,  escritorio regulable  ,CAT_005,,3.0,450.0,1345.0,PAG_004,Efectivo
+VENTA_144,11/06/2026,  CUST-0149  ,Mateo Sanchez,,PROD_014,  escritorio regulable  ,CAT_005,  MUEBLES  ,1.0,450.0,550.0,PAG_001,
+VENTA_145,02/02/2026,  CUST-0108  ,Camila Fernandez,Cartagena,PROD_005,  TECLADO MECÁNICO  ,CAT_002,  accesorios  ,0.0,85.0,100.0,PAG_003,Tarjeta de Crédito
+VENTA_146,17/02/2026,  cust-0140  ,Jorge Rodriguez,Cartagena,PROD_014,  escritorio regulable  ,CAT_005,  MUEBLES  ,2.0,0.0,-5.0,PAG_002,PayPal
+VENTA_147,31/05/2026,  cust-0116  ,Lucia Torres,Cartagena,PROD_006,  cable hdmi 4k  ,CAT_002,  ACCESORIOS  ,-5.0,15.0,70.0,PAG_001,Nequi
+VENTA_148,03/03/2026,  CUST-0110  ,Pedro Diaz,Ciudad desconocido,PROD_007,  MOUSE INALÁMBRICO  ,CAT_002,  accesorios  ,5.0,0.0,10.0,PAG_003,Tarjeta de Crédito
+VENTA_149,04/08/2026,  cust-0147  ,Gabriel Castro,Bogotá,PROD_015,  SILLA ERGONÓMICA  ,CAT_005,  muebles  ,,210.0,625.0,PAG_003,Tarjeta de Crédito
+VENTA_150,06/02/2026,  CUST-0128  ,Pedro Torres,Medellín,PROD_003,  LAPTOP PRO 15  ,CAT_001,  electrónica  ,-2.0,1200.0,2500.0,PAG_003,Tarjeta de Crédito
+VENTA_151,09/04/2026,  CUST-0135  ,Carlos Martinez,Barranquilla,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,1.0,1200.0,1210.0,PAG_001,Nequi
+VENTA_152,21/06/2026,  cust-0145  ,Diego Fernandez,Cali,PROD_015,  silla ergonómica  ,CAT_005,  muebles  ,4.0,210.0,850.0,PAG_006,Metodo de pago desconocido
+VENTA_153,14/04/2026,  cust-0127  ,Gabriel Ramirez,Bogotá,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,3.0,85.0,250.0,PAG_005,Transferencia
+VENTA_154,02/08/2026,  CUST-0135  ,Carlos Martinez,Bogotá,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  electrónica  ,5.0,320.0,1700.0,PAG_001,Nequi
+VENTA_155,07/08/2026,  CUST-0100  ,Ana Castro,Bogotá,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,4.0,85.0,440.0,PAG_001,Nequi
+VENTA_156,04/02/2026,  cust-0107  ,Isabella Diaz,,PROD_003,  laptop pro 15  ,CAT_001,  ELECTRÓNICA  ,4.0,,4795.0,PAG_001,Nequi
+VENTA_157,12/07/2026,  CUST-0104  ,Juan Ramirez,Cartagena,PROD_003,  laptop pro 15  ,CAT_001,,0.0,-1200.0,-5.0,PAG_002,PayPal
+VENTA_158,15/08/2026,  CUST-0144  ,Daniel Castro,Cali,PROD_015,  SILLA ERGONÓMICA  ,CAT_005,  MUEBLES  ,-5.0,0.0,10.0,PAG_004,Efectivo
+VENTA_159,11/04/2026,Cust-0109,Camila Perez,Cali,PROD_014,Escritorio regulable,CAT_005,Muebles,3.0,450.0,1350.0,PAG_002,PayPal
+VENTA_160,24/06/2026,  cust-0134  ,Pedro Castro,Medellín,PROD_005,  TECLADO MECÁNICO  ,CAT_002,  accesorios  ,-1000.0,85.0,85010.0,PAG_005,Transferencia
+VENTA_161,01/01/1900,  CUST-0102  ,Marta Ramirez,Cartagena,PROD_013,  LÁMPARA LED  ,CAT_004,  hogar  ,2.0,35.0,170.0,PAG_005,Transferencia
+VENTA_162,11/05/2026,  cust-0123  ,Ana Torres,Barranquilla,PROD_015,  SILLA ERGONÓMICA  ,CAT_005,  muebles  ,4.0,,850.0,PAG_003,Tarjeta de Crédito
+VENTA_163,01/01/2026,  CUST-0137  ,Juan Lopez,Bogotá,PROD_006,  CABLE HDMI 4K  ,CAT_002,  accesorios  ,4.0,15.0,55.0,PAG_001,Nequi
+VENTA_164,,  CUST-0135  ,Carlos Martinez,Medellín,PROD_003,  LAPTOP PRO 15  ,CAT_001,  electrónica  ,3.0,1200.0,3595.0,PAG_002,PayPal
+VENTA_165,06/08/2026,  CUST-0109  ,Camila Perez,Cartagena,PROD_015,  silla ergonómica  ,CAT_005,  MUEBLES  ,2.0,-210.0,430.0,PAG_001,Nequi
+VENTA_166,01/01/1900,  cust-0127  ,Gabriel Ramirez,Ciudad desconocido,PROD_005,  TECLADO MECÁNICO  ,CAT_002,,2.0,-0.0,100.0,PAG_005,Transferencia
+VENTA_167,13/04/2026,  CUST-0108  ,Camila Fernandez,Cali,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,5.0,1200.0,6100.0,PAG_005,Transferencia
+VENTA_168,27/01/2026,  cust-0102  ,Marta Ramirez,Medellín,PROD_001,  MONITOR 27 PULGADAS  ,CAT_001,  ELECTRÓNICA  ,3.0,320.0,955.0,PAG_003,
+VENTA_169,17/05/2026,  CUST-0119  ,Valeria Morales,Cali,PROD_015,  SILLA ERGONÓMICA  ,CAT_005,  MUEBLES  ,2.0,0.0,-5.0,PAG_006,Metodo de pago desconocido
+VENTA_170,26/07/2026,  cust-0123  ,Ana Torres,Barranquilla,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  electrónica  ,2.0,75.0,250.0,PAG_002,PayPal
+VENTA_171,15/01/2026,Cust-0150,Mateo Vargas,Cartagena,PROD_003,Laptop pro 15,CAT_001,Electrónica,2.0,1200.0,2400.0,PAG_003,Tarjeta de Crédito
+VENTA_172,31/03/2026,  CUST-0102  ,Marta Ramirez,Cartagena,PROD_005,  teclado mecánico  ,CAT_002,  ACCESORIOS  ,1.0,85.0,,PAG_003,
+VENTA_173,11/02/2026,  cust-0122  ,Gabriel Morales,Cartagena,PROD_007,  mouse inalámbrico  ,CAT_002,  accesorios  ,4.0,25.5,112.0,PAG_003,Tarjeta de Crédito
+VENTA_174,04/05/2026,  cust-0113  ,Carlos Garcia,Medellín,PROD_013,  LÁMPARA LED  ,CAT_004,  hogar  ,5.0,35.0,185.0,PAG_003,Tarjeta de Crédito
+VENTA_175,24/07/2026,Cust-0143,Marta Lopez,Cartagena,PROD_004,Organizador de cables,CAT_002,Accesorios,4.0,0.0,0.0,PAG_003,Tarjeta de Crédito
+VENTA_176,28/06/2026,  CUST-0115  ,Sofia Morales,Bogotá,PROD_014,  escritorio regulable  ,CAT_005,  MUEBLES  ,5.0,450.0,2260.0,PAG_005,
+VENTA_177,01/01/1900,  cust-0142  ,Daniel Fernandez,Barranquilla,PROD_004,  ORGANIZADOR DE CABLES  ,CAT_002,  accesorios  ,5.0,12.0,70.0,PAG_003,Tarjeta de Crédito
+VENTA_178,06/04/2026,  CUST-0106  ,Andres Torres,Medellín,PROD_005,  TECLADO MECÁNICO  ,CAT_002,  accesorios  ,3.0,-85.0,265.0,PAG_004,Efectivo
+VENTA_179,21/02/2026,  cust-0122  ,Gabriel Morales,Barranquilla,PROD_006,  cable hdmi 4k  ,CAT_002,  accesorios  ,-1.0,0.0,-5.0,PAG_002,PayPal
+VENTA_180,06/04/2026,  CUST-0149  ,Mateo Sanchez,Bogotá,PROD_006,  CABLE HDMI 4K  ,CAT_002,  accesorios  ,3.0,0.0,10.0,PAG_002,PayPal
+VENTA_181,12/05/2026,  cust-0135  ,Carlos Martinez,Medellín,PROD_007,  MOUSE INALÁMBRICO  ,CAT_002,  ACCESORIOS  ,5.0,0.0,-5.0,PAG_004,Efectivo
+VENTA_182,10/08/2026,  CUST-0126  ,Daniel Fernandez,,PROD_014,  escritorio regulable  ,CAT_005,  muebles  ,-2.0,450.0,895.0,PAG_005,
+VENTA_183,17/08/2026,  CUST-0139  ,Maria Ramirez,Medellín,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  electrónica  ,3.0,75.0,220.0,PAG_002,PayPal
+VENTA_184,01/01/1900,  CUST-0147  ,Gabriel Castro,,PROD_007,  MOUSE INALÁMBRICO  ,CAT_002,  ACCESORIOS  ,1.0,25.5,,PAG_004,
+VENTA_185,23/05/2026,  CUST-0109  ,Camila Perez,Cali,PROD_004,  organizador de cables  ,CAT_002,  accesorios  ,2.0,-12.0,124.0,PAG_002,PayPal
+VENTA_186,20/06/2026,  CUST_0115  ,Valeria Sanchez,Medellín,PROD_007,  MOUSE INALÁMBRICO  ,CAT_002,  ACCESORIOS  ,1.0,25.5,35.5,PAG_005,
+VENTA_187,29/01/2026,  CUST-0110  ,Pedro Diaz,,PROD_004,  organizador de cables  ,CAT_002,  accesorios  ,1.0,12.0,7.0,PAG_001,Nequi
+VENTA_188,05/02/2026,  CUST-0111  ,Sofia Lopez,Barranquilla,PROD_003,  laptop pro 15  ,CAT_001,  electrónica  ,5.0,0.0,100.0,PAG_003,Tarjeta de Crédito
+VENTA_189,,  CUST-0126  ,Daniel Fernandez,Barranquilla,PROD_006,  cable hdmi 4k  ,CAT_002,  accesorios  ,5.0,15.0,70.0,PAG_001,Nequi
+VENTA_190,09/06/2026,  CUST-0101  ,Carlos Rodriguez,Bogotá,PROD_003,  LAPTOP PRO 15  ,CAT_001,  ELECTRÓNICA  ,1.0,1200.0,1210.0,PAG_004,
+VENTA_191,12/03/2026,  CUST-0111  ,Sofia Lopez,Bogotá,PROD_013,  LÁMPARA LED  ,CAT_004,  hogar  ,,35.0,170.0,PAG_001,Nequi
+VENTA_192,06/07/2026,  CUST-0147  ,Gabriel Castro,Cartagena,PROD_014,  escritorio regulable  ,CAT_005,  muebles  ,-3.0,-450.0,1450.0,PAG_001,Nequi
+VENTA_193,27/03/2026,  cust-0121  ,Sofia Sanchez,Cartagena,PROD_002,  AUDÍFONOS BLUETOOTH  ,CAT_001,  electrónica  ,5.0,0.0,-5.0,PAG_002,PayPal
+VENTA_194,28/01/2026,  CUST-0150  ,Mateo Vargas,Cali,PROD_004,  organizador de cables  ,CAT_002,  accesorios  ,-1.0,-12.0,7.0,PAG_005,Transferencia
+VENTA_195,07/03/2026,  CUST-0126  ,Daniel Fernandez,Cali,PROD_002,  audífonos bluetooth  ,CAT_001,  ELECTRÓNICA  ,3.0,75.0,235.0,PAG_005,Transferencia
+VENTA_196,19/06/2026,  cust-0142  ,Daniel Fernandez,Bogotá,PROD_004,  ORGANIZADOR DE CABLES  ,CAT_002,  accesorios  ,1.0,12.0,112.0,PAG_003,Tarjeta de Crédito
+VENTA_197,14/02/2026,  cust-0147  ,Gabriel Castro,Cali,PROD_005,  TECLADO MECÁNICO  ,CAT_002,  ACCESORIOS  ,,85.0,270.0,PAG_001,Nequi
+VENTA_198,01/01/1900,  cust-0115  ,Sofia Morales,Cartagena,PROD_007,  mouse inalámbrico  ,CAT_002,  ACCESORIOS  ,,25.5,10.0,PAG_005,Transferencia
+VENTA_199,04/07/2026,  CUST-0117  ,Ana Castro,Cali,PROD_013,  lámpara led  ,CAT_004,  HOGAR  ,-4.0,35.0,240.0,PAG_004,Efectivo
+VENTA_200,14/05/2026,  CUST-0110  ,Pedro Diaz,,PROD_006,  cable hdmi 4k  ,CAT_002,  accesorios  ,5.0,15.0,85.0,PAG_003,Tarjeta de Crédito
+VENTA_096,09/07/2026,  cust-0108  ,Camila Fernandez,,PROD_015,  silla ergonómica  ,CAT_005,,1.0,0.0,100.0,PAG_001,
+VENTA_016,27/04/2026,  cust-0150  ,Mateo Vargas,,PROD_013,  lámpara led  ,CAT_004,,-3.0,-35.0,205.0,PAG_001,
+VENTA_031,10/06/2026,  CUST-0113  ,Carlos Garcia,,PROD_007,  mouse inalámbrico  ,CAT_002,,5.0,25.5,122.5,PAG_003,
+VENTA_159,11/04/2026,  CUST-0109  ,Camila Perez,,PROD_014,  ESCRITORIO REGULABLE  ,CAT_005,,3.0,450.0,1345.0,PAG_002,
+VENTA_129,04/03/2026,  CUST-0113  ,Carlos Garcia,,PROD_001,  monitor 27 pulgadas  ,CAT_001,,5.0,320.0,1700.0,PAG_002,
+VENTA_116,04/05/2026,  cust-0108  ,Camila Fernandez,,PROD_001,  monitor 27 pulgadas  ,CAT_001,,0.0,320.0,-5.0,PAG_005,
+VENTA_070,21/04/2026,  cust-0116  ,Lucia Torres,,PROD_004,  ORGANIZADOR DE CABLES  ,CAT_002,,1.0,12.0,22.0,PAG_003,
+VENTA_171,15/01/2026,  CUST-0150  ,Mateo Vargas,,PROD_003,  laptop pro 15  ,CAT_001,,2.0,1200.0,2410.0,PAG_003,
+VENTA_175,24/07/2026,  CUST-0143  ,Marta Lopez,,PROD_004,  ORGANIZADOR DE CABLES  ,CAT_002,,4.0,0.0,-5.0,PAG_003,
+VENTA_046,24/06/2026,  cust-0103  ,Lucia Ramirez,,PROD_010,  TECLADO MECÁNICO  ,CAT_003,,-5.0,-85.0,420.0,PAG_004,
