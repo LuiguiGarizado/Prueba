@@ -1,16 +1,16 @@
-﻿ID_Venta,Fecha,ID_Cliente,Nombre_Cliente,Ciudad,ID_Producto,Producto,ID_Categoria,Categoria,Cantidad,Precio_Unitario,Monto_Total,ID_Metodo_Pago,Metodo_Pago
+﻿id_venta,fecha,id_cliente,nombre_cliente,ciudad,id_producto,producto,id_categoria,categoria,cantidad,precio_unitario,monto_total,id_metodo_pago,metodo_pago
 VENTA_001,2026-04-13,Cust-0105,Pedro Lopez,Ciudad desconocido,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,2,0.0,0.0,PAG_001,Nequi
 VENTA_002,1900-01-01,Cust_0148,Gabriel Vargas,Bogotá,PROD_004,Organizador de cables,CAT_002,Accesorios,3,12.0,36.0,PAG_001,Nequi
 VENTA_003,2026-04-03,Cust-0115,Sofia Morales,Cali,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,3,75.0,225.0,PAG_002,PayPal
 VENTA_004,2026-01-15,Cust-0110,Pedro Diaz,Ciudad desconocido,PROD_008,Lámpara led,CAT_003,Categoria desconocido,3,35.0,105.0,PAG_002,PayPal
 VENTA_005,2026-04-17,Cust-0126,Daniel Fernandez,Ciudad desconocido,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,4,75.0,300.0,PAG_001,Nequi
-VENTA_006,2026-03-13,Cust-0131,Jorge Vargas,Cartagena,PROD_003,Laptop pro 15,CAT_001,Electrónica,3,0.0,0.0,PAG_002,Metodo de pago desconocido
-VENTA_007,2026-07-08,Cust-0130,Maria Sanchez,Cartagena,PROD_003,Laptop pro 15,CAT_001,Categoria desconocida,3,1200.0,3600.0,PAG_002,Metodo de pago desconocido
-VENTA_008,1900-01-01,Cust-0113,Carlos Garcia,Ciudad desconocido,PROD_013,Lámpara led,CAT_004,Categoria desconocida,4,35.0,140.0,PAG_003,Tarjeta de Crédito
+VENTA_006,2026-03-13,Cust-0131,Jorge Vargas,Cartagena,PROD_003,Laptop pro 15,CAT_001,Electrónica,3,0.0,0.0,PAG_002,PayPal
+VENTA_007,2026-07-08,Cust-0130,Maria Sanchez,Cartagena,PROD_003,Laptop pro 15,CAT_001,Electrónica,3,1200.0,3600.0,PAG_002,PayPal
+VENTA_008,1900-01-01,Cust-0113,Carlos Garcia,Ciudad desconocido,PROD_013,Lámpara led,CAT_004,Hogar,4,35.0,140.0,PAG_003,Tarjeta de Crédito
 VENTA_009,2026-04-13,Cust-0125,Juan Sanchez,Medellín,PROD_013,Lámpara led,CAT_004,Hogar,2,0.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_010,1900-01-01,Cust-0103,Lucia Ramirez,Barranquilla,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,2,0.0,0.0,PAG_004,Efectivo
 VENTA_011,2026-07-30,Cust-0110,Pedro Diaz,Bogotá,PROD_013,Lámpara led,CAT_004,Hogar,4,35.0,140.0,PAG_004,Efectivo
-VENTA_012,2026-08-03,Cust-0124,Laura Perez,Barranquilla,PROD_005,Teclado mecánico,CAT_002,Categoria desconocida,5,85.0,425.0,PAG_005,Metodo de pago desconocido
+VENTA_012,2026-08-03,Cust-0124,Laura Perez,Barranquilla,PROD_005,Teclado mecánico,CAT_002,Accesorios,5,85.0,425.0,PAG_005,Transferencia
 VENTA_013,1900-01-01,Cust-0100,Ana Castro,Cali,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,4,75.0,300.0,PAG_001,Nequi
 VENTA_014,2026-07-22,Cust-0124,Laura Perez,Cartagena,PROD_014,Escritorio regulable,CAT_005,Muebles,0,0.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_015,2026-03-29,Cust-0116,Lucia Torres,Cali,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,0,15.0,0.0,PAG_006,Metodo de pago desconocido
@@ -20,18 +20,18 @@ VENTA_018,2026-04-14,Cust-0129,Marta Castro,Cartagena,PROD_003,Laptop pro 15,CAT
 VENTA_019,2026-06-01,Cust-0118,Valeria Ramirez,Medellín,PROD_005,Teclado mecánico,CAT_002,Accesorios,1,0.0,0.0,PAG_002,PayPal
 VENTA_020,1900-01-01,Cust-0127,Gabriel Ramirez,Cartagena,PROD_004,Organizador de cables,CAT_002,Accesorios,5,12.0,60.0,PAG_001,Nequi
 VENTA_021,2026-05-30,Cust-0144,Daniel Castro,Cali,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,5,0.0,0.0,PAG_004,Efectivo
-VENTA_022,2026-02-22,Cust_0146,Mariana Torres,Cali,PROD_014,Escritorio regulable,CAT_005,Categoria desconocida,1,450.0,450.0,PAG_002,PayPal
+VENTA_022,2026-02-22,Cust_0146,Mariana Torres,Cali,PROD_014,Escritorio regulable,CAT_005,Muebles,1,450.0,450.0,PAG_002,PayPal
 VENTA_023,2026-01-02,Cust-0150,Mateo Vargas,Medellín,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,4,15.0,60.0,PAG_002,PayPal
 VENTA_024,2026-03-29,Cust-0135,Carlos Martinez,Medellín,PROD_013,Lámpara led,CAT_004,Hogar,3,35.0,105.0,PAG_002,PayPal
-VENTA_025,1900-01-01,Cust-0142,Daniel Fernandez,Barranquilla,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,1,320.0,320.0,PAG_003,Metodo de pago desconocido
+VENTA_025,1900-01-01,Cust-0142,Daniel Fernandez,Barranquilla,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,1,320.0,320.0,PAG_003,Tarjeta de Crédito
 VENTA_026,2026-02-07,Cust-0145,Diego Fernandez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,1,1200.0,1200.0,PAG_003,Tarjeta de Crédito
 VENTA_027,1900-01-01,Cust_0131,Isabella Lopez,Barranquilla,PROD_003,Laptop pro 15,CAT_001,Electrónica,0,1200.0,0.0,PAG_002,PayPal
 VENTA_028,1900-01-01,Cust-0109,Camila Perez,Cartagena,PROD_004,Organizador de cables,CAT_002,Accesorios,1000,12.0,12000.0,PAG_003,Tarjeta de Crédito
 VENTA_029,2026-07-07,Cust-0112,Diego Diaz,Cali,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,5,320.0,1600.0,PAG_004,Efectivo
 VENTA_030,2026-01-21,Cust-0118,Valeria Ramirez,Ciudad desconocido,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,4,75.0,300.0,PAG_002,PayPal
 VENTA_031,2026-06-10,Cust-0113,Carlos Garcia,Cali,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,5,25.5,127.5,PAG_003,Tarjeta de Crédito
-VENTA_032,2026-07-23,Cust-0103,Lucia Ramirez,Bogotá,PROD_005,Teclado mecánico,CAT_002,Categoria desconocida,2,85.0,170.0,PAG_005,Transferencia
-VENTA_033,2026-02-27,Cust-0137,Juan Lopez,Ciudad desconocido,PROD_003,Laptop pro 15,CAT_001,Categoria desconocida,1,1200.0,1200.0,PAG_002,PayPal
+VENTA_032,2026-07-23,Cust-0103,Lucia Ramirez,Bogotá,PROD_005,Teclado mecánico,CAT_002,Accesorios,2,85.0,170.0,PAG_005,Transferencia
+VENTA_033,2026-02-27,Cust-0137,Juan Lopez,Ciudad desconocido,PROD_003,Laptop pro 15,CAT_001,Electrónica,1,1200.0,1200.0,PAG_002,PayPal
 VENTA_034,2026-01-22,Cust-0147,Gabriel Castro,Cali,PROD_015,Silla ergonómica,CAT_005,Muebles,5,210.0,1050.0,PAG_001,Nequi
 VENTA_035,2026-03-30,Cust-0134,Pedro Castro,Cali,PROD_003,Laptop pro 15,CAT_001,Electrónica,3,1200.0,3600.0,PAG_005,Transferencia
 VENTA_036,2026-02-18,Cust-0103,Lucia Ramirez,Medellín,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,0,15.0,0.0,PAG_006,Metodo de pago desconocido
@@ -54,13 +54,13 @@ VENTA_052,2026-05-11,Cust-0104,Juan Ramirez,Medellín,PROD_001,Monitor 27 pulgad
 VENTA_053,1900-01-01,Cust-0143,Marta Lopez,Medellín,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,2,75.0,150.0,PAG_004,Efectivo
 VENTA_054,2026-02-20,Cust-0115,Sofia Morales,Ciudad desconocido,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,5,0.0,0.0,PAG_005,Transferencia
 VENTA_055,2026-05-15,Cust-0125,Juan Sanchez,Cali,PROD_003,Laptop pro 15,CAT_001,Electrónica,0,1200.0,0.0,PAG_001,Nequi
-VENTA_056,1900-01-01,Cust-0107,Isabella Diaz,Bogotá,PROD_012,Escritorio regulable,CAT_003,Categoria desconocida,2,0.0,0.0,PAG_004,Efectivo
+VENTA_056,1900-01-01,Cust-0107,Isabella Diaz,Bogotá,PROD_012,Escritorio regulable,CAT_003,Categoria desconocido,2,0.0,0.0,PAG_004,Efectivo
 VENTA_057,2026-03-14,Cust-0136,Lucia Perez,Barranquilla,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,5,15.0,75.0,PAG_004,Efectivo
 VENTA_058,2026-06-16,Cust-0115,Sofia Morales,Bogotá,PROD_015,Silla ergonómica,CAT_005,Muebles,2,210.0,420.0,PAG_002,PayPal
 VENTA_059,2026-01-18,Cust-0137,Juan Lopez,Cartagena,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,1000,320.0,320000.0,PAG_001,Nequi
 VENTA_060,2026-05-12,Cust-0138,Laura Garcia,Ciudad desconocido,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,2,0.0,0.0,PAG_001,Nequi
 VENTA_061,2026-03-30,Cust-0102,Marta Ramirez,Cali,PROD_014,Escritorio regulable,CAT_005,Muebles,0,450.0,0.0,PAG_005,Transferencia
-VENTA_062,2026-03-01,Cust-0139,Maria Ramirez,Ciudad desconocido,PROD_014,Escritorio regulable,CAT_005,Categoria desconocida,2,450.0,900.0,PAG_004,Efectivo
+VENTA_062,2026-03-01,Cust-0139,Maria Ramirez,Ciudad desconocido,PROD_014,Escritorio regulable,CAT_005,Muebles,2,450.0,900.0,PAG_004,Efectivo
 VENTA_063,2026-01-14,Cust-0105,Pedro Lopez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,1,0.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_064,2026-01-09,Cust-0126,Daniel Fernandez,Bogotá,PROD_013,Lámpara led,CAT_004,Hogar,1,35.0,35.0,PAG_001,Nequi
 VENTA_065,2026-03-31,Cust-0142,Daniel Fernandez,Barranquilla,PROD_014,Escritorio regulable,CAT_005,Muebles,4,450.0,1800.0,PAG_001,Nequi
@@ -69,7 +69,7 @@ VENTA_067,2026-05-10,Cust-0136,Lucia Perez,Cali,PROD_001,Monitor 27 pulgadas,CAT
 VENTA_068,1900-01-01,Cust-0133,Maria Perez,Cali,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,1,320.0,320.0,PAG_005,Transferencia
 VENTA_069,2026-04-02,Cust-0120,Sofia Rodriguez,Barranquilla,PROD_005,Teclado mecánico,CAT_002,Accesorios,2,85.0,170.0,PAG_002,PayPal
 VENTA_070,2026-04-21,Cust-0116,Lucia Torres,Barranquilla,PROD_004,Organizador de cables,CAT_002,Accesorios,1,12.0,12.0,PAG_003,Tarjeta de Crédito
-VENTA_071,2026-07-07,Cust-0113,Carlos Garcia,Cali,PROD_005,Teclado mecánico,CAT_002,Accesorios,5,85.0,425.0,PAG_002,Metodo de pago desconocido
+VENTA_071,2026-07-07,Cust-0113,Carlos Garcia,Cali,PROD_005,Teclado mecánico,CAT_002,Accesorios,5,85.0,425.0,PAG_002,PayPal
 VENTA_072,2026-07-18,Cust-0142,Daniel Fernandez,Ciudad desconocido,PROD_005,Teclado mecánico,CAT_002,Accesorios,1,85.0,85.0,PAG_005,Transferencia
 VENTA_073,1900-01-01,Cust-0145,Diego Fernandez,Barranquilla,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,2,320.0,640.0,PAG_001,Nequi
 VENTA_074,2026-01-08,Cust-0120,Sofia Rodriguez,Barranquilla,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,4,75.0,300.0,PAG_001,Nequi
@@ -81,18 +81,18 @@ VENTA_079,1900-01-01,Cust-0142,Daniel Fernandez,Bogotá,PROD_002,Audífonos blue
 VENTA_080,2026-02-19,Cust-0141,Sofia Martinez,Medellín,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,5,25.5,127.5,PAG_004,Efectivo
 VENTA_081,2026-04-14,Cust-0119,Valeria Morales,Ciudad desconocido,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,5,15.0,75.0,PAG_003,Tarjeta de Crédito
 VENTA_082,2026-05-12,Cust-0129,Marta Castro,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,4,1200.0,4800.0,PAG_003,Tarjeta de Crédito
-VENTA_083,2026-01-02,Cust-0120,Sofia Rodriguez,Ciudad desconocido,PROD_013,Lámpara led,CAT_004,Hogar,5,35.0,175.0,PAG_005,Metodo de pago desconocido
+VENTA_083,2026-01-02,Cust-0120,Sofia Rodriguez,Ciudad desconocido,PROD_013,Lámpara led,CAT_004,Hogar,5,35.0,175.0,PAG_005,Transferencia
 VENTA_084,2026-05-14,Cust-0148,Isabella Martinez,Medellín,PROD_013,Lámpara led,CAT_004,Hogar,5,0.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_085,2026-02-23,Cust-0104,Juan Ramirez,Bogotá,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1,25.5,25.5,PAG_005,Transferencia
 VENTA_086,2026-04-16,Cust-0100,Ana Castro,Cali,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,1,75.0,75.0,PAG_005,Transferencia
 VENTA_087,2026-01-04,Cust-0129,Marta Castro,Cartagena,PROD_004,Organizador de cables,CAT_002,Accesorios,5,12.0,60.0,PAG_003,Tarjeta de Crédito
-VENTA_088,2026-02-23,Cust-0139,Maria Ramirez,Bogotá,PROD_005,Teclado mecánico,CAT_002,Categoria desconocida,2,85.0,170.0,PAG_001,Nequi
+VENTA_088,2026-02-23,Cust-0139,Maria Ramirez,Bogotá,PROD_005,Teclado mecánico,CAT_002,Accesorios,2,85.0,170.0,PAG_001,Nequi
 VENTA_089,1900-01-01,Cust-0136,Lucia Perez,Barranquilla,PROD_011,Audífonos bluetooth,CAT_003,Categoria desconocido,2,0.0,0.0,PAG_005,Transferencia
 VENTA_090,1900-01-01,Cust-0106,Andres Torres,Medellín,PROD_004,Organizador de cables,CAT_002,Accesorios,4,0.0,0.0,PAG_004,Efectivo
-VENTA_091,2026-05-26,Cust-0104,Juan Ramirez,Cali,PROD_013,Lámpara led,CAT_004,Categoria desconocida,1,35.0,35.0,PAG_003,Tarjeta de Crédito
+VENTA_091,2026-05-26,Cust-0104,Juan Ramirez,Cali,PROD_013,Lámpara led,CAT_004,Hogar,1,35.0,35.0,PAG_003,Tarjeta de Crédito
 VENTA_092,1900-01-01,Cust-0134,Pedro Castro,Barranquilla,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,3,320.0,960.0,PAG_002,PayPal
 VENTA_093,2026-02-13,Cust-0113,Carlos Garcia,Cartagena,PROD_003,Laptop pro 15,CAT_001,Electrónica,3,1200.0,3600.0,PAG_004,Efectivo
-VENTA_094,2026-06-11,Cust-0132,Camila Gomez,Cali,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,4,25.5,102.0,PAG_002,Metodo de pago desconocido
+VENTA_094,2026-06-11,Cust-0132,Camila Gomez,Cali,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,4,25.5,102.0,PAG_002,PayPal
 VENTA_095,1900-01-01,Cust-0116,Lucia Torres,Medellín,PROD_003,Laptop pro 15,CAT_001,Electrónica,2,1200.0,2400.0,PAG_005,Transferencia
 VENTA_096,2026-07-09,Cust-0108,Camila Fernandez,Ciudad desconocido,PROD_015,Silla ergonómica,CAT_005,Muebles,1,0.0,0.0,PAG_001,Nequi
 VENTA_097,2026-08-16,Cust-0122,Gabriel Morales,Ciudad desconocido,PROD_015,Silla ergonómica,CAT_005,Muebles,3,210.0,630.0,PAG_003,Tarjeta de Crédito
@@ -112,23 +112,23 @@ VENTA_110,2026-04-21,Cust-0100,Ana Castro,Barranquilla,PROD_001,Monitor 27 pulga
 VENTA_111,2026-02-22,Cust-0142,Daniel Fernandez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,4,1200.0,4800.0,PAG_004,Efectivo
 VENTA_112,2026-01-24,Cust-0135,Carlos Martinez,Ciudad desconocido,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,5,15.0,75.0,PAG_002,PayPal
 VENTA_113,2026-06-03,Cust-0119,Valeria Morales,Cali,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,5,0.0,0.0,PAG_006,Metodo de pago desconocido
-VENTA_114,2026-08-05,Cust-0142,Daniel Fernandez,Barranquilla,PROD_014,Escritorio regulable,CAT_005,Categoria desconocida,0,450.0,0.0,PAG_005,Transferencia
-VENTA_115,2026-07-07,Cust-0106,Andres Torres,Barranquilla,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,3,15.0,45.0,PAG_003,Metodo de pago desconocido
+VENTA_114,2026-08-05,Cust-0142,Daniel Fernandez,Barranquilla,PROD_014,Escritorio regulable,CAT_005,Muebles,0,450.0,0.0,PAG_005,Transferencia
+VENTA_115,2026-07-07,Cust-0106,Andres Torres,Barranquilla,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,3,15.0,45.0,PAG_003,Tarjeta de Crédito
 VENTA_116,2026-05-04,Cust-0108,Camila Fernandez,Medellín,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,0,320.0,0.0,PAG_005,Transferencia
-VENTA_117,2026-02-10,Cust-0116,Lucia Torres,Barranquilla,PROD_005,Teclado mecánico,CAT_002,Accesorios,3,0.0,0.0,PAG_002,Metodo de pago desconocido
+VENTA_117,2026-02-10,Cust-0116,Lucia Torres,Barranquilla,PROD_005,Teclado mecánico,CAT_002,Accesorios,3,0.0,0.0,PAG_002,PayPal
 VENTA_118,1900-01-01,Cust-0107,Isabella Diaz,Cali,PROD_013,Lámpara led,CAT_004,Hogar,3,35.0,105.0,PAG_004,Efectivo
 VENTA_119,2026-01-15,Cust-0106,Andres Torres,Cartagena,PROD_005,Teclado mecánico,CAT_002,Accesorios,0,85.0,0.0,PAG_004,Efectivo
 VENTA_120,1900-01-01,Cust-0147,Gabriel Castro,Bogotá,PROD_013,Lámpara led,CAT_004,Hogar,5,0.0,0.0,PAG_005,Transferencia
 VENTA_121,1900-01-01,Cust-0135,Carlos Martinez,Bogotá,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1,0.0,0.0,PAG_005,Transferencia
 VENTA_122,1900-01-01,Cust-0109,Camila Perez,Bogotá,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1,25.5,25.5,PAG_001,Nequi
-VENTA_123,2026-03-12,Cust-0117,Ana Castro,Medellín,PROD_007,Mouse inalámbrico,CAT_002,Categoria desconocida,1000,25.5,25500.0,PAG_002,PayPal
+VENTA_123,2026-03-12,Cust-0117,Ana Castro,Medellín,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1000,25.5,25500.0,PAG_002,PayPal
 VENTA_124,2026-01-09,Cust-0118,Valeria Ramirez,Bogotá,PROD_012,Escritorio regulable,CAT_003,Categoria desconocido,4,450.0,1800.0,PAG_002,PayPal
 VENTA_125,1900-01-01,Cust-0138,Laura Garcia,Cali,PROD_005,Teclado mecánico,CAT_002,Accesorios,3,85.0,255.0,PAG_002,PayPal
-VENTA_126,2026-05-09,Cust-0113,Carlos Garcia,Medellín,PROD_013,Lámpara led,CAT_004,Hogar,3,35.0,105.0,PAG_005,Metodo de pago desconocido
-VENTA_127,1900-01-01,Cust-0145,Diego Fernandez,Ciudad desconocido,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,5,0.0,0.0,PAG_002,Metodo de pago desconocido
+VENTA_126,2026-05-09,Cust-0113,Carlos Garcia,Medellín,PROD_013,Lámpara led,CAT_004,Hogar,3,35.0,105.0,PAG_005,Transferencia
+VENTA_127,1900-01-01,Cust-0145,Diego Fernandez,Ciudad desconocido,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,5,0.0,0.0,PAG_002,PayPal
 VENTA_128,2026-08-04,Cust-0121,Sofia Sanchez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,1,1200.0,1200.0,PAG_003,Tarjeta de Crédito
 VENTA_129,2026-03-04,Cust-0113,Carlos Garcia,Cali,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,5,320.0,1600.0,PAG_002,PayPal
-VENTA_130,2026-05-19,Cust-0143,Marta Lopez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Categoria desconocida,0,0.0,0.0,PAG_003,Tarjeta de Crédito
+VENTA_130,2026-05-19,Cust-0143,Marta Lopez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,0,0.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_131,2026-03-22,Cust-0140,Jorge Rodriguez,Bogotá,PROD_015,Silla ergonómica,CAT_005,Muebles,1000,210.0,210000.0,PAG_003,Tarjeta de Crédito
 VENTA_132,1900-01-01,Cust-0116,Lucia Torres,Cali,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,4,320.0,1280.0,PAG_002,PayPal
 VENTA_133,2026-06-12,Cust-0132,Camila Gomez,Cartagena,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,4,15.0,60.0,PAG_005,Transferencia
@@ -137,12 +137,12 @@ VENTA_135,1900-01-01,Cust-0116,Lucia Torres,Cali,PROD_002,Audífonos bluetooth,C
 VENTA_136,2026-05-03,Cust-0103,Lucia Ramirez,Cartagena,PROD_005,Teclado mecánico,CAT_002,Accesorios,1,85.0,85.0,PAG_005,Transferencia
 VENTA_137,1900-01-01,Cust-0105,Pedro Lopez,Medellín,PROD_003,Laptop pro 15,CAT_001,Electrónica,5,0.0,0.0,PAG_001,Nequi
 VENTA_138,2026-02-10,Cust-0140,Jorge Rodriguez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,0,1200.0,0.0,PAG_002,PayPal
-VENTA_139,2026-01-28,Cust-0127,Gabriel Ramirez,Bogotá,PROD_005,Teclado mecánico,CAT_002,Categoria desconocida,0,85.0,0.0,PAG_003,Tarjeta de Crédito
+VENTA_139,2026-01-28,Cust-0127,Gabriel Ramirez,Bogotá,PROD_005,Teclado mecánico,CAT_002,Accesorios,0,85.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_140,2026-05-15,Cust-0117,Ana Castro,Medellín,PROD_014,Escritorio regulable,CAT_005,Muebles,5,0.0,0.0,PAG_002,PayPal
 VENTA_141,2026-07-20,Cust-0102,Marta Ramirez,Cali,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,2,75.0,150.0,PAG_002,PayPal
 VENTA_142,2026-03-13,Cust-0100,Ana Castro,Ciudad desconocido,PROD_014,Escritorio regulable,CAT_005,Muebles,2,450.0,900.0,PAG_001,Nequi
-VENTA_143,2026-01-12,Cust-0121,Sofia Sanchez,Medellín,PROD_014,Escritorio regulable,CAT_005,Categoria desconocida,3,450.0,1350.0,PAG_004,Efectivo
-VENTA_144,2026-06-11,Cust-0149,Mateo Sanchez,Ciudad desconocido,PROD_014,Escritorio regulable,CAT_005,Muebles,1,450.0,450.0,PAG_001,Metodo de pago desconocido
+VENTA_143,2026-01-12,Cust-0121,Sofia Sanchez,Medellín,PROD_014,Escritorio regulable,CAT_005,Muebles,3,450.0,1350.0,PAG_004,Efectivo
+VENTA_144,2026-06-11,Cust-0149,Mateo Sanchez,Ciudad desconocido,PROD_014,Escritorio regulable,CAT_005,Muebles,1,450.0,450.0,PAG_001,Nequi
 VENTA_145,2026-02-02,Cust-0108,Camila Fernandez,Cartagena,PROD_005,Teclado mecánico,CAT_002,Accesorios,0,85.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_146,2026-02-17,Cust-0140,Jorge Rodriguez,Cartagena,PROD_014,Escritorio regulable,CAT_005,Muebles,2,0.0,0.0,PAG_002,PayPal
 VENTA_147,2026-05-31,Cust-0116,Lucia Torres,Cartagena,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,5,15.0,75.0,PAG_001,Nequi
@@ -155,7 +155,7 @@ VENTA_153,2026-04-14,Cust-0127,Gabriel Ramirez,Bogotá,PROD_005,Teclado mecánic
 VENTA_154,2026-08-02,Cust-0135,Carlos Martinez,Bogotá,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,5,320.0,1600.0,PAG_001,Nequi
 VENTA_155,2026-08-07,Cust-0100,Ana Castro,Bogotá,PROD_005,Teclado mecánico,CAT_002,Accesorios,4,85.0,340.0,PAG_001,Nequi
 VENTA_156,2026-02-04,Cust-0107,Isabella Diaz,Ciudad desconocido,PROD_003,Laptop pro 15,CAT_001,Electrónica,4,0.0,0.0,PAG_001,Nequi
-VENTA_157,2026-07-12,Cust-0104,Juan Ramirez,Cartagena,PROD_003,Laptop pro 15,CAT_001,Categoria desconocida,0,1200.0,0.0,PAG_002,PayPal
+VENTA_157,2026-07-12,Cust-0104,Juan Ramirez,Cartagena,PROD_003,Laptop pro 15,CAT_001,Electrónica,0,1200.0,0.0,PAG_002,PayPal
 VENTA_158,2026-08-15,Cust-0144,Daniel Castro,Cali,PROD_015,Silla ergonómica,CAT_005,Muebles,5,0.0,0.0,PAG_004,Efectivo
 VENTA_159,2026-04-11,Cust-0109,Camila Perez,Cali,PROD_014,Escritorio regulable,CAT_005,Muebles,3,450.0,1350.0,PAG_002,PayPal
 VENTA_160,2026-06-24,Cust-0134,Pedro Castro,Medellín,PROD_005,Teclado mecánico,CAT_002,Accesorios,1000,85.0,85000.0,PAG_005,Transferencia
@@ -164,31 +164,31 @@ VENTA_162,2026-05-11,Cust-0123,Ana Torres,Barranquilla,PROD_015,Silla ergonómic
 VENTA_163,2026-01-01,Cust-0137,Juan Lopez,Bogotá,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,4,15.0,60.0,PAG_001,Nequi
 VENTA_164,1900-01-01,Cust-0135,Carlos Martinez,Medellín,PROD_003,Laptop pro 15,CAT_001,Electrónica,3,1200.0,3600.0,PAG_002,PayPal
 VENTA_165,2026-08-06,Cust-0109,Camila Perez,Cartagena,PROD_015,Silla ergonómica,CAT_005,Muebles,2,210.0,420.0,PAG_001,Nequi
-VENTA_166,1900-01-01,Cust-0127,Gabriel Ramirez,Ciudad desconocido,PROD_005,Teclado mecánico,CAT_002,Categoria desconocida,2,0.0,0.0,PAG_005,Transferencia
+VENTA_166,1900-01-01,Cust-0127,Gabriel Ramirez,Ciudad desconocido,PROD_005,Teclado mecánico,CAT_002,Accesorios,2,0.0,0.0,PAG_005,Transferencia
 VENTA_167,2026-04-13,Cust-0108,Camila Fernandez,Cali,PROD_003,Laptop pro 15,CAT_001,Electrónica,5,1200.0,6000.0,PAG_005,Transferencia
-VENTA_168,2026-01-27,Cust-0102,Marta Ramirez,Medellín,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,3,320.0,960.0,PAG_003,Metodo de pago desconocido
+VENTA_168,2026-01-27,Cust-0102,Marta Ramirez,Medellín,PROD_001,Monitor 27 pulgadas,CAT_001,Electrónica,3,320.0,960.0,PAG_003,Tarjeta de Crédito
 VENTA_169,2026-05-17,Cust-0119,Valeria Morales,Cali,PROD_015,Silla ergonómica,CAT_005,Muebles,2,0.0,0.0,PAG_006,Metodo de pago desconocido
 VENTA_170,2026-07-26,Cust-0123,Ana Torres,Barranquilla,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,2,75.0,150.0,PAG_002,PayPal
 VENTA_171,2026-01-15,Cust-0150,Mateo Vargas,Cartagena,PROD_003,Laptop pro 15,CAT_001,Electrónica,2,1200.0,2400.0,PAG_003,Tarjeta de Crédito
-VENTA_172,2026-03-31,Cust-0102,Marta Ramirez,Cartagena,PROD_005,Teclado mecánico,CAT_002,Accesorios,1,85.0,85.0,PAG_003,Metodo de pago desconocido
+VENTA_172,2026-03-31,Cust-0102,Marta Ramirez,Cartagena,PROD_005,Teclado mecánico,CAT_002,Accesorios,1,85.0,85.0,PAG_003,Tarjeta de Crédito
 VENTA_173,2026-02-11,Cust-0122,Gabriel Morales,Cartagena,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,4,25.5,102.0,PAG_003,Tarjeta de Crédito
 VENTA_174,2026-05-04,Cust-0113,Carlos Garcia,Medellín,PROD_013,Lámpara led,CAT_004,Hogar,5,35.0,175.0,PAG_003,Tarjeta de Crédito
 VENTA_175,2026-07-24,Cust-0143,Marta Lopez,Cartagena,PROD_004,Organizador de cables,CAT_002,Accesorios,4,0.0,0.0,PAG_003,Tarjeta de Crédito
-VENTA_176,2026-06-28,Cust-0115,Sofia Morales,Bogotá,PROD_014,Escritorio regulable,CAT_005,Muebles,5,450.0,2250.0,PAG_005,Metodo de pago desconocido
+VENTA_176,2026-06-28,Cust-0115,Sofia Morales,Bogotá,PROD_014,Escritorio regulable,CAT_005,Muebles,5,450.0,2250.0,PAG_005,Transferencia
 VENTA_177,1900-01-01,Cust-0142,Daniel Fernandez,Barranquilla,PROD_004,Organizador de cables,CAT_002,Accesorios,5,12.0,60.0,PAG_003,Tarjeta de Crédito
 VENTA_178,2026-04-06,Cust-0106,Andres Torres,Medellín,PROD_005,Teclado mecánico,CAT_002,Accesorios,3,85.0,255.0,PAG_004,Efectivo
 VENTA_179,2026-02-21,Cust-0122,Gabriel Morales,Barranquilla,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,1,0.0,0.0,PAG_002,PayPal
 VENTA_180,2026-04-06,Cust-0149,Mateo Sanchez,Bogotá,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,3,0.0,0.0,PAG_002,PayPal
 VENTA_181,2026-05-12,Cust-0135,Carlos Martinez,Medellín,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,5,0.0,0.0,PAG_004,Efectivo
-VENTA_182,2026-08-10,Cust-0126,Daniel Fernandez,Ciudad desconocido,PROD_014,Escritorio regulable,CAT_005,Muebles,2,450.0,900.0,PAG_005,Metodo de pago desconocido
+VENTA_182,2026-08-10,Cust-0126,Daniel Fernandez,Ciudad desconocido,PROD_014,Escritorio regulable,CAT_005,Muebles,2,450.0,900.0,PAG_005,Transferencia
 VENTA_183,2026-08-17,Cust-0139,Maria Ramirez,Medellín,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,3,75.0,225.0,PAG_002,PayPal
-VENTA_184,1900-01-01,Cust-0147,Gabriel Castro,Ciudad desconocido,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1,25.5,25.5,PAG_004,Metodo de pago desconocido
+VENTA_184,1900-01-01,Cust-0147,Gabriel Castro,Ciudad desconocido,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1,25.5,25.5,PAG_004,Efectivo
 VENTA_185,2026-05-23,Cust-0109,Camila Perez,Cali,PROD_004,Organizador de cables,CAT_002,Accesorios,2,12.0,24.0,PAG_002,PayPal
-VENTA_186,2026-06-20,Cust_0115,Valeria Sanchez,Medellín,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1,25.5,25.5,PAG_005,Metodo de pago desconocido
+VENTA_186,2026-06-20,Cust_0115,Valeria Sanchez,Medellín,PROD_007,Mouse inalámbrico,CAT_002,Accesorios,1,25.5,25.5,PAG_005,Transferencia
 VENTA_187,2026-01-29,Cust-0110,Pedro Diaz,Ciudad desconocido,PROD_004,Organizador de cables,CAT_002,Accesorios,1,12.0,12.0,PAG_001,Nequi
 VENTA_188,2026-02-05,Cust-0111,Sofia Lopez,Barranquilla,PROD_003,Laptop pro 15,CAT_001,Electrónica,5,0.0,0.0,PAG_003,Tarjeta de Crédito
 VENTA_189,1900-01-01,Cust-0126,Daniel Fernandez,Barranquilla,PROD_006,Cable hdmi 4k,CAT_002,Accesorios,5,15.0,75.0,PAG_001,Nequi
-VENTA_190,2026-06-09,Cust-0101,Carlos Rodriguez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,1,1200.0,1200.0,PAG_004,Metodo de pago desconocido
+VENTA_190,2026-06-09,Cust-0101,Carlos Rodriguez,Bogotá,PROD_003,Laptop pro 15,CAT_001,Electrónica,1,1200.0,1200.0,PAG_004,Efectivo
 VENTA_191,2026-03-12,Cust-0111,Sofia Lopez,Bogotá,PROD_013,Lámpara led,CAT_004,Hogar,0,35.0,0.0,PAG_001,Nequi
 VENTA_192,2026-07-06,Cust-0147,Gabriel Castro,Cartagena,PROD_014,Escritorio regulable,CAT_005,Muebles,3,450.0,1350.0,PAG_001,Nequi
 VENTA_193,2026-03-27,Cust-0121,Sofia Sanchez,Cartagena,PROD_002,Audífonos bluetooth,CAT_001,Electrónica,5,0.0,0.0,PAG_002,PayPal
