@@ -74,7 +74,7 @@ DB_NAME = os.getenv("DB_NAME")
 
 # Construcción de la URL de conexión
 DATABASE_URL = f"postgresql+psycopg2://{USER}:{PASSWORD}@{HOST}:{PORT}/{DB_NAME}"
-
+ 
 # Creación y verificación del motor de base de datos
 try:
     engine = create_engine(DATABASE_URL)
